@@ -1,7 +1,7 @@
-Tic-Tac-Toe Flet App
+#Tic-Tac-Toe Flet App
 A modern, cross-platform Tic-Tac-Toe (X-O) game built with Python and the Flet framework. This app features a clean UI, support for local multiplayer, and an AI opponent.
 
- Features
+ #Features
 Two Game Modes:
 
 Player vs Player: Play locally with a friend.
@@ -16,17 +16,16 @@ Smart AI: The AI doesn't just play randomly; it tries to block your winning move
 
 Modern Design: Includes an AppBar, styled buttons, and clear status indicators.
 
- Getting Started
+ #Getting Started
 Prerequisites
 Make sure you have Python installed on your system. You will also need the flet library.
 
-Bash
-
+***
 pip install flet
 Running the App
 Run the following command in your terminal:
+***
 
-Bash
 
 python main.py
  Built With
