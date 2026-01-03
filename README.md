@@ -1,4 +1,4 @@
-#Tic-Tac-Toe Flet App#
+Tic-Tac-Toe Flet App
 A modern, cross-platform Tic-Tac-Toe (X-O) game built with Python and the Flet framework. This app features a clean UI, support for local multiplayer, and an AI opponent.
 
  Features
