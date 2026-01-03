@@ -20,15 +20,6 @@ Modern Design: Includes an AppBar, styled buttons, and clear status indicators.
 Prerequisites
 Make sure you have Python installed on your system. You will also need the flet library.
 
-Installation
-Clone the repository:
-
-Bash
-
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Install dependencies:
-
 Bash
 
 pip install flet
